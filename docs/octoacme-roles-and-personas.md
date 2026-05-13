@@ -75,7 +75,66 @@ Project Managers coordinate delivery activities, manage schedules, risks, and co
 
 ---
 
+## UX Designer
+
+**Role Summary**: Leads the user experience vision, ensures solutions are user-centered and accessible.
+
+**Responsibilities**
+- Conduct user research and facilitate user testing
+- Design wireframes and prototypes
+- Define usability and accessibility acceptance criteria
+- Collaborate with Product Manager on feature goals and with Developers on feasible design
+
+**Typical Communication**
+- Participates in requirements/planning meetings
+- Demo designs in sprint reviews
+- Documents research outcomes for team alignment
+
+---
+
+## QA/Automation Engineer
+
+**Role Summary**: Ensures overall product quality through automated and manual test strategies.
+
+**Responsibilities**
+- Develop and maintain automated test suites
+- Review PRs for test coverage
+- Coordinate with PM for release criteria and Developer for bug fixes
+
+**Typical Communication**
+- Reports test results in standups
+- Logs defects in issue tracker, works directly with Developers
+
+---
+
+## Business Analyst
+
+**Role Summary**: Translates business needs into actionable requirements and acceptance criteria.
+
+**Responsibilities**
+- Elicit requirements from stakeholders, document business processes
+- Support the Product Manager in defining user stories
+- Facilitate clarification between business and technical teams
+
+**Typical Communication**
+- Runs stakeholder interviews
+- Shares requirement docs and process flows with Product/Project Managers and Developers
+
+---
+
 ## How these personas are used in the exercise
 - Use these persona definitions to frame scenarios and sample interactions in the Skills Exercise.
 - Each persona can be used as a persona prompt for Copilot Spaces to shape role-specific guidance.
 
+## Persona Coverage Checklist
+
+To ensure clarity and repeatable project management, check that all relevant roles below are included and their interfaces/ownership clearly described:
+
+- [ ] Developer
+- [ ] Product Manager
+- [ ] Project Manager
+- [ ] UX Designer
+- [ ] QA/Automation Engineer
+- [ ] Business Analyst
+
+Update this list when onboarding new roles or expanding the scope of team responsibilities.
