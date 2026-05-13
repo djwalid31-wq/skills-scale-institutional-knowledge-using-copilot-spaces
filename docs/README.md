@@ -4,13 +4,7 @@ Welcome! This folder centralizes OctoAcme's project management processes for eas
 
 ## OctoAcme Project Management Process – At a Glance
 
-OctoAcme delivers projects with a customer-first and iterative approach, emphasizing clear ownership and structured, artifact-driven workflows. Our process fosters transparency and continuous improvement:
-
-- **Customer-first, iterative delivery:** Frequent releases focused on customer value and usability.
-- **Clear roles:** Project Manager, Product Manager, Developers, QA/Testing, and Stakeholders each have defined responsibilities (see [Roles and Personas](octoacme-roles-and-personas.md)).
-- **Artifact-driven:** We maintain essential documents—one-pagers, risk registers, release plans, retros, and more—to support alignment and accountability at every stage.
-- **Structured lifecycle:** From Initiation ➔ Planning ➔ Execution ➔ Release ➔ Retrospectives, each phase has living documentation and checklists.
-- **Transparent communication:** Regular standups, weekly updates, and milestone demos ensure visible progress and rapid escalation of risks.
+OctoAcme delivers projects with a customer-first and iterative approach, using structured, artifact-driven workflows and transparent communication across clear roles (Project Manager, Product Manager, Developers, QA/Testing, Stakeholders). The project lifecycle covers initiation, planning, execution, release, and continuous improvement, with living documents and regular updates driving alignment and risk management.
 
 ## Process Document Index
 
